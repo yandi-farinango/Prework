@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/ZhoRFku.gif)
+![tipCalculator](https://user-images.githubusercontent.com/71475457/151252654-ba8e5f1f-8ccf-41d0-b564-8d9d9e630ecb.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
